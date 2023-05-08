@@ -1,5 +1,4 @@
-Integrantes:  Gustavo Soto
-              Benjamin Cruzado
+Integrantes:  Gustavo Soto y Benjamin Cruzado
               
 Actividades a realizar:
 
