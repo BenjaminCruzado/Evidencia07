@@ -1,3 +1,6 @@
+Integrantes:  Gustavo Soto
+              Benjamin Cruzado
+              
 Actividades a realizar:
 
 i. Identifique las clases y lo que éstas representan. Luego, establezca una descripción textual breve del contexto problema.
